@@ -28,6 +28,10 @@ cents %= 5
 pennies = cents
 
 # results
+if dollars == 0:
+    print("no change")
+
+
 if dollars > 0:
     if dollars == 1:
         print("1 dollar")
