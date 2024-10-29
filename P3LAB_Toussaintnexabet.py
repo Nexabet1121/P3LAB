@@ -28,7 +28,7 @@ cents %= 5
 pennies = cents
 
 # results
-if dollars == 0:
+if amount == 0:
     print("no change")
 
 
